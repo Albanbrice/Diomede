@@ -1,5 +1,4 @@
-![VillaDiomedeProject](img/logoDiomede.png)
-# Villa de Diomede
+![VillaDiomedeProject](img/logoDiomede.png)Villa de Diomede
 Travail en cours 
 # Chapitre 2
 ## C. La restitution des espaces
