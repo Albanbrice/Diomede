@@ -1,6 +1,8 @@
 # Diomede
 WIP Diomede
-![Villa Diomede Project logo](http://villadiomede.huma-num.fr/3dproject/IMG/siteon0.png)
+
+![VillaDiomedeProject](https://villadiomede.huma-num.fr/3dproject/IMG/siteon0.png)
+
 Travail en cours 
 # Chapitre 2
 ## C. La restitution des espaces
