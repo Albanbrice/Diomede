@@ -1,6 +1,6 @@
-![VillaDiomedeProject](img/logoDiomede.png)Villa de Diomede
+![VillaDiomedeProject](img/logoDiomede.png)Villa de Diomède
 =====================================
-Travail en cours 
+Expérimentation de publication
 # Chapitre 2
 ## C. La restitution des espaces
 ### 1. Une restitution de l'état de l'architecture et du décor de la villa en 79 apr. J.-C.
