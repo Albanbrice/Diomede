@@ -1,7 +1,7 @@
 # Diomede
 WIP Diomede
 
-![VillaDiomedeProject](https://villadiomede.huma-num.fr/3dproject/IMG/siteon0.png)
+![VillaDiomedeProject](http://villadiomede.huma-num.fr/3dproject/IMG/siteon0.png)
 
 Travail en cours 
 # Chapitre 2
