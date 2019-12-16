@@ -1,0 +1,55 @@
+
+title: La villa de Diomède
+title_complet: "Exposition virtuelle: découverte de la villa de Diomède"
+tagline:
+url: http://villadiomede.huma-num.fr/expo/
+baseurl:
+
+collection_catalogues: Les catalogues numériques du MSR
+
+producteur: A DEF
+producteur_complement: "A DEF"
+author:
+  name: Alban-Brice Pimpaud
+  name_id: ABP
+  photograph: A DEF
+  twitter: "A DEF"
+place: A DEF
+
+keywords: "A DEF"
+
+locale: fr_FR
+encoding: UTF-8
+
+date: 2019
+
+isbn_numerique: A DEF
+isbn_papier: A DEF
+
+description: "A DEF"
+
+licence: A DEF
+
+timezone: Europe/Paris
+
+#permalink: pretty
+
+plugins:
+
+
+exclude:
+
+
+collections:
+  contenus:
+    output: true
+    permalink: /:path
+
+
+
+# Dépôt
+repo_url: https://github.com/Albanbrice/Diomede
+repo_branch: master
+
+svg:
+  optimize: true
