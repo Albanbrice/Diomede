@@ -1,4 +1,23 @@
 ---
 label: essai
 hide_body: false
-fields: []
+fields:
+- name: titre
+  type: text
+  config:
+    required: false
+  label: Titre
+  description: titrage
+- name: notice
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Notice
+- name: illustrations
+  type: image_gallery
+  config: {}
+  label: Illustrations
